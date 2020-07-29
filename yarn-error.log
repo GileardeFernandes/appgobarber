@@ -1,0 +1,78 @@
+Arguments: 
+  /home/micaelfernandes/.asdf/installs/nodejs/12.16.3/bin/node /usr/share/yarn/bin/yarn.js install
+
+PATH: 
+  /home/micaelfernandes/estudos/bootcamp/fase2/app-go-barber/appgobarber/node_modules/.bin:/home/micaelfernandes/estudos/bootcamp/fase2/app-go-barber/node_modules/.bin:/home/micaelfernandes/estudos/bootcamp/fase2/node_modules/.bin:/home/micaelfernandes/estudos/bootcamp/node_modules/.bin:/home/micaelfernandes/estudos/node_modules/.bin:/home/micaelfernandes/node_modules/.bin:/home/node_modules/.bin:/node_modules/.bin:/home/micaelfernandes/.asdf/installs/nodejs/12.16.3/bin:/home/micaelfernandes/.asdf/installs/nodejs/12.16.3/bin:/home/micaelfernandes/.asdf/installs/nodejs/12.16.3/.npm/bin:/home/micaelfernandes/.asdf/shims:/home/micaelfernandes/.asdf/bin:/home/micaelfernandes/.zinit/polaris/sbin:/home/micaelfernandes/.zinit/polaris/bin:/home/micaelfernandes/.zinit/polaris/usr/sbin:/home/micaelfernandes/.zinit/polaris/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.16.3
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/typescript/-/typescript-3.9.7.tgz: ESOCKETTIMEDOUT
+      at ClientRequest.<anonymous> (/usr/share/yarn/lib/cli.js:141375:19)
+      at Object.onceWrapper (events.js:416:28)
+      at ClientRequest.emit (events.js:310:20)
+      at TLSSocket.emitRequestTimeout (_http_client.js:709:9)
+      at Object.onceWrapper (events.js:416:28)
+      at TLSSocket.emit (events.js:322:22)
+      at TLSSocket.Socket._onTimeout (net.js:479:8)
+      at listOnTimeout (internal/timers.js:549:17)
+      at processTimers (internal/timers.js:492:7)
+
+npm manifest: 
+  {
+    "name": "appgobarber",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+      "android": "react-native run-android",
+      "ios": "react-native run-ios",
+      "start": "react-native start",
+      "test": "jest",
+      "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+    },
+    "dependencies": {
+      "react": "16.13.1",
+      "react-native": "0.63.0"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.8.4",
+      "@babel/runtime": "^7.8.4",
+      "@react-native-community/eslint-config": "^1.1.0",
+      "@types/jest": "^25.2.3",
+      "@types/react-native": "^0.63.1",
+      "@types/react-test-renderer": "^16.9.2",
+      "@typescript-eslint/eslint-plugin": "^2.27.0",
+      "@typescript-eslint/parser": "^2.27.0",
+      "babel-jest": "^25.1.0",
+      "eslint": "^6.5.1",
+      "jest": "^25.1.0",
+      "metro-react-native-babel-preset": "^0.59.0",
+      "react-test-renderer": "16.13.1",
+      "prettier": "^2.0.4",
+      "typescript": "^3.8.3"
+    },
+    "jest": {
+      "preset": "react-native",
+      "moduleFileExtensions": [
+        "ts",
+        "tsx",
+        "js",
+        "jsx",
+        "json",
+        "node"
+      ]
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
