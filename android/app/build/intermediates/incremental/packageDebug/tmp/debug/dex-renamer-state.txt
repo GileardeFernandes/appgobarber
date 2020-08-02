@@ -1,4 +1,4 @@
-#Tue Jul 28 15:36:31 BRT 2020
+#Thu Jul 30 01:40:22 BRT 2020
 base.0=/home/micaelfernandes/estudos/bootcamp/fase2/appgobarber/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

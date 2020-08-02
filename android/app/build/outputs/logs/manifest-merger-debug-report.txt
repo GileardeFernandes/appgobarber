@@ -13,6 +13,7 @@ MERGED from [:react-native-gesture-handler] /home/micaelfernandes/estudos/bootca
 MERGED from [:react-native-reanimated] /home/micaelfernandes/estudos/bootcamp/fase2/appgobarber/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-safe-area-context] /home/micaelfernandes/estudos/bootcamp/fase2/appgobarber/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /home/micaelfernandes/estudos/bootcamp/fase2/appgobarber/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/micaelfernandes/estudos/bootcamp/fase2/appgobarber/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.63.0] /home/micaelfernandes/.gradle/caches/transforms-2/files-2.1/640df7e3e3f146dad2c4be1e4995cb2f/jetified-react-native-0.63.0/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/micaelfernandes/.gradle/caches/transforms-2/files-2.1/37b6f551bc5ae153b0b627de8f563815/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r245459] /home/micaelfernandes/.gradle/caches/transforms-2/files-2.1/6dd6245206e34676e1ee3aa6ee0f68c9/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
@@ -175,6 +176,8 @@ MERGED from [:react-native-safe-area-context] /home/micaelfernandes/estudos/boot
 MERGED from [:react-native-safe-area-context] /home/micaelfernandes/estudos/bootcamp/fase2/appgobarber/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] /home/micaelfernandes/estudos/bootcamp/fase2/appgobarber/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-screens] /home/micaelfernandes/estudos/bootcamp/fase2/appgobarber/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/micaelfernandes/estudos/bootcamp/fase2/appgobarber/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/micaelfernandes/estudos/bootcamp/fase2/appgobarber/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.63.0] /home/micaelfernandes/.gradle/caches/transforms-2/files-2.1/640df7e3e3f146dad2c4be1e4995cb2f/jetified-react-native-0.63.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.63.0] /home/micaelfernandes/.gradle/caches/transforms-2/files-2.1/640df7e3e3f146dad2c4be1e4995cb2f/jetified-react-native-0.63.0/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/micaelfernandes/.gradle/caches/transforms-2/files-2.1/37b6f551bc5ae153b0b627de8f563815/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
